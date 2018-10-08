@@ -16,3 +16,16 @@ http://54.37.188.76:80/live/new4tec/new4tec/23668.ts
 #EXTINF:-1,US: ANIMAL PLANET
 http://54.37.188.76:80/live/new4tec/new4tec/23667.ts
 #EXTINF:-1,US: ANIMAL PLANET HD
+
+EXTINF:-1,UK- ITV (main)
+http://54.37.188.76:80/live/new4tec/new4tec/22105.ts
+#EXTINF:-1,UK: ITV*backup
+http://54.37.188.76:80/live/new4tec/new4tec/22104.ts
+#EXTINF:-1,UK: ITV 2
+http://54.37.188.76:80/live/new4tec/new4tec/22102.ts
+#EXTINF:-1,UK: ITV 2 Backup
+http://54.37.188.76:80/live/new4tec/new4tec/22101.ts
+#EXTINF:-1,UK: ITV 3
+http://54.37.188.76:80/live/new4tec/new4tec/22100.ts
+#EXTINF:-1,UK: ITV 3 Backup
+http://54.37.188.76:80/live/new4tec/new4tec/22099
