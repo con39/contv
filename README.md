@@ -1,5 +1,5 @@
-# contv
--1,US: DIY TV
+# cont
+#EXTINF:-1,US: DIY TV
 http://54.37.188.76:80/live/new4tec/new4tec/23314.ts
 #EXTINF:-1,US: A&E
 http://54.37.188.76:80/live/new4tec/new4tec/23673.ts
@@ -16,6 +16,5 @@ http://54.37.188.76:80/live/new4tec/new4tec/23668.ts
 #EXTINF:-1,US: ANIMAL PLANET
 http://54.37.188.76:80/live/new4tec/new4tec/23667.ts
 #EXTINF:-1,US: ANIMAL PLANET
-
 #EXTINF:-1,UK: MTV DANCE
-http://54.37.188.76:80/live/new4tec/new4tec/2195
+http://54.37.188.76:80/live/new4tec/new4tec/21950.ts
