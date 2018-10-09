@@ -1,245 +1,134 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6963.ts
-#EXTINF:-1,UK:BBC 1 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1495.ts
-#EXTINF:-1,UK:BBC 2 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1496.ts
-#EXTINF:-1,UK:BBC 3 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1497.ts
-#EXTINF:-1,UK:BBC 4 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1498.ts
-#EXTINF:-1,UK:BBC News
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6922.ts
-#EXTINF:-1,UK:ITV 1 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1505.ts
-#EXTINF:-1,UK:ITV 2 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1506.ts
-#EXTINF:-1,UK:ITV 3 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1507.ts
-#EXTINF:-1,UK:ITV BE HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1508.ts
-#EXTINF:-1,UK:RTE ONE
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6931.ts
-#EXTINF:-1,UK:RTE TWO
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6932.ts
-#EXTINF:-1,UK:E4
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6928.ts
-#EXTINF:-1,UK:ITV 4
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6923.ts
-#EXTINF:-1,UK:FILM 4
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6927.ts
-#EXTINF:-1,UK:MORE 4
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6926.ts
-#EXTINF:-1,UK:CHANNEL 4
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6924.ts
-#EXTINF:-1,UK:CHANNEL 5
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6925.ts
-#EXTINF:-1,UK:SKY ONE HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/7427.ts
-#EXTINF:-1,UK:E!
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6948.ts
-#EXTINF:-1,UK:ALIBI
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6947.ts
-#EXTINF:-1,UK:DAVE
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6951.ts
-#EXTINF:-1,UK:QUEST
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6962.ts
-#EXTINF:-1,UK:UTV
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6930.ts
-#EXTINF:-1,UK:5 USA
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6929.ts
-#EXTINF:-1,UK:UNIVERSAL
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6943.ts
-#EXTINF:-1,UK:MOVIE 4 MEN
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6944.ts
-#EXTINF:-1,UK:COMEDY CENTRAL
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6950.ts
-#EXTINF:-1,UK:CBBC
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6920.ts
-#EXTINF:-1,UK:FOX NEWS
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6933.ts
-#EXTINF:-1,UK:EURONEWS
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6934.ts
-#EXTINF:-1,UK:LONDON LIVE
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6935.ts
-#EXTINF:-1,UK:TRAVEL CHANNEL
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6958.ts
-#EXTINF:-1,UK:BLOOMBERG
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6939.ts
-#EXTINF:-1,UK:DISNEY XD HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1504.ts
-#EXTINF:-1,UK:NICKELODEON HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1503.ts
-#EXTINF:-1,UK:CARTOON NETWORK HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1502.ts
-#EXTINF:-1,UK:FOOD NETWORK
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6964.ts
-#EXTINF:-1,UK:HISTORY HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1513.ts
-#EXTINF:-1,UK:ANIMAL PLANET
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6959.ts
-#EXTINF:-1,UK:HOME&HEALTH
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6957.ts
-#EXTINF:-1,UK:DISCOVERY
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6954.ts
-#EXTINF:-1,UK:DISCOVERY TURBO
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6956.ts
-#EXTINF:-1,UK:DISCOVERY HISTORY
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6953.ts
-#EXTINF:-1,UK:DISCOVERY SCIENCE
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6952.ts
-#EXTINF:-1,UK:CRIME & INVERSTIGATION
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6949.ts
-#EXTINF:-1,UK:INVESTIGATION DISCOVERY
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6955.ts
-#EXTINF:-1,UK:NAT GEO WILD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6961.ts
-#EXTINF:-1,UK:NAT GEOGRAPHIC
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6960.ts
-#EXTINF:-1,UK:SKY ARTS
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6945.ts
-#EXTINF:-1,UK:SKY LIVING
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6942.ts
-#EXTINF:-1,UK:SKY ATLANTIC
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/6946.ts
-#EXTINF:-1,UK:SKY NEWS HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1499.ts
-#EXTINF:-1,UK:SKY THRILLER HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1490.ts
-#EXTINF:-1,UK:SKY CHELSEA TV HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1492.ts
-#EXTINF:-1,UK:CBS REALITY HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1509.ts
-#EXTINF:-1,UK:CBS DRAMA HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1510.ts
-#EXTINF:-1,UK:CBS ACTION HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1511.ts
-#EXTINF:-1,UK:MOVIES THRILLER HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1514.ts
-#EXTINF:-1,UK:MOVIES DRAMA HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1515.ts
-#EXTINF:-1,UK:MOVIES DISNEY HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1516.ts
-#EXTINF:-1,UK:MOVIES COMEDY HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1517.ts
-#EXTINF:-1,UK:MOVIES ACTION HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1518.ts
-#EXTINF:-1,UK:BT SPORT 1
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/4758.ts
-#EXTINF:-1,UK:BT SPORT 2
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/4759.ts
-#EXTINF:-1,UK:BT SPORT 3
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/4760.ts
-#EXTINF:-1,UK:SETANTA SPORTS HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1501.ts
-#EXTINF:-1,UK:BT SPORTS ESPN HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1512.ts
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1016.ts
-#EXTINF:-1,UK:SKY SPORT CRICKET HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1017.ts
-#EXTINF:-1,UK:SKY SPORTS ACTION HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1018.ts
-#EXTINF:-1,UK:SKY SPORTS GOLF HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1019.ts
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/1020.ts
-#EXTINF:-1,UK:Sky Sport Main Event HD
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/22754.ts
-#EXTINF:-1,UK:Sky Sports Premier League
-http://iptv.pro4hdtv.com:8000/live/Burim/Burim/22755.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tpqKLRl.jpg" group-title="UK",AXN
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
 
-#EXTINF:-1,SW-usa-VH1 US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3001.ts
-#EXTINF:-1,SW-usa-USA NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2958.ts
-#EXTINF:-1,SW-usa-TV LAND
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3009.ts
-#EXTINF:-1,SW-usa-TRAVEL CHANNEL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3010.ts
-#EXTINF:-1,SW-usa-TNT TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2974.ts
-#EXTINF:-1,SW-usa-TLC USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2996.ts
-#EXTINF:-1,SW-usa-TENNIS CHANNEL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3011.ts
-#EXTINF:-1,SW-usa-TBS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2986.ts
-#EXTINF:-1,SW-usa-SYFY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2959.ts
-#EXTINF:-1,SW-usa-SUNDANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2999.ts
-#EXTINF:-1,SW-usa-STARZ WEST
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2977.ts
-#EXTINF:-1,SW-usa-STARZ HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2976.ts
-#EXTINF:-1,SW-usa-STARZ EDGE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2979.ts
-#EXTINF:-1,SW-usa-STARZ COMEDY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2978.ts
-#EXTINF:-1,SW-usa-SPIKE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2972.ts
-#EXTINF:-1,SW-usa-SHOWTIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2983.ts
-#EXTINF:-1,SW-usa-SEC NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3002.ts
-#EXTINF:-1,SW-usa-ROMEDY NOW
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2969.ts
-#EXTINF:-1,SW-usa-OWN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2994.ts
-#EXTINF:-1,SW-usa-NICK AT NITE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2993.ts
-#EXTINF:-1,SW-usa-NAT GEO
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2989.ts
-#EXTINF:-1,SW-usa-MSNBC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3013.ts
-#EXTINF:-1,SW-usa-MOVIETIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2988.ts
-#EXTINF:-1,SW-usa-MLB NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3003.ts
-#EXTINF:-1,SW-usa-LMN US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2998.ts
-#EXTINF:-1,SW-usa-LIFETIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2973.ts
-#EXTINF:-1,SW-usa-IFC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3016.ts
-#EXTINF:-1,SW-usa-HISTORY US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2985.ts
-#EXTINF:-1,SW-usa-HGTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2971.ts
-#EXTINF:-1,SW-usa-HBO ZONE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2963.ts
-#EXTINF:-1,SW-usa-HBO SINGNATURE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2964.ts
-#EXTINF:-1,SW-usa-HBO HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2967.ts
-#EXTINF:-1,SW-usa-HBO COMEDY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2965.ts
-#EXTINF:-1,SW-usa-HALLMARK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2995.ts
-#EXTINF:-1,SW-usa-GSN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3015.ts
-#EXTINF:-1,SW-usa-FXX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3000.ts
-#EXTINF:-1,SW-usa-FX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2970.ts
-#EXTINF:-1,SW-usa-FREEFROM
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3004.ts
-#EXTINF:-1,SW-usa-FOX US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2990.ts
-#EXTINF:-1,SW-usa-FOX NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2968.ts
-#EXTINF:-1,SW-usa-FOOD NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2984.ts
-#EXTINF:-1,SW-usa-EL REY NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3008.ts
-#EXTINF:-1,SW-usa-E ENTERTAINMENT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/2982.ts
-#EXTINF:-1,SW-usa-DISNEY CH US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/gMd*9*Hvb$t6J3(msm,Y*khS!2Q/3005.ts
-#EXTINF:-1,SW-usa-DISCOVERY VELOCITY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQL23Df.jpg" group-title="UK",BT Sport
+http://163.172.38.45:8081/btsp/sp1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6eIQHt.png" group-title="UK",Discovery Turbo
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Turbo/Discovery_Turbo_800.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
+http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wCN0Llv.png" group-title="UK",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hvshq0m.png" group-title="UK",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.gizmodo.co.uk/wp-content/uploads/2015/09/itv-hub-460x259.jpg" group-title="UK",ITV Live Events
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
+http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
+http://www.lengua.com/anthems/Ireland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr. [NoKodi]
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia TV ~
+http://www.lengua.com/anthems/Australia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="AUSTRALIA",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abc.net.au/tv/common/images/publicity/abcnewsdefault_90.jpg" group-title="AUSTRALIA",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.webpatashala.com/Icons/Flag-Borderless-Icons-Deleket-/Png/New-Zealand-01-icon57.PNG" group-title="LABEL",~ New Zealand TV ~
+http://www.lengua.com/anthems/NewZealand.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://freeviewnz.tv/nonumbracoimages/ChannelsOpg/ctv8.png" group-title="NEW ZEALAND",CTV 8
+http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="NEW ZEALAND",Parliament TV (Opt-1)
+http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="NEW ZEALAND",Parliament TV (Opt-2)
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="NEW ZEALAND",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.9.png" group-title="NEW ZEALAND",TVNZ 1 [Geo]
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2 [NoKodi]
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2* [Geo]
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png" group-title="NEW ZEALAND",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.60.png" group-title="NEW ZEALAND",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
