@@ -3,6 +3,13 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,UK: RTE 1
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2208.m3u8
+#EXTINF:-1,UK: RTE 2
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2207.m3u8
+#EXTINF:-1,UK: RTE NEWS
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2206.m3u8
+
 
 
 #EXTINF:-1,CA: DIY NETWORK HD
