@@ -7,174 +7,143 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1,CA: DIY NETWORK HD
 http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
-#EXTINF:-1,. VH1 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/110.m3u8
- 
-#EXTINF:-1,. Sky News
- 
-http://37.187.160.187:8000/live/ressler/skype/89.m3u8
- 
-#EXTINF:-1,. Sky Living UK
- 
-http://37.187.160.187:8000/live/ressler/skype/80.m3u8
- 
-#EXTINF:-1,. Sky Atlantic UK
- 
-http://37.187.160.187:8000/live/ressler/skype/81.m3u8
- 
-#EXTINF:-1,. Sky Arts 1 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/102.m3u8
- 
-#EXTINF:-1,. Sky 2 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/79.m3u8
- 
-#EXTINF:-1,. Sky 1 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/77.m3u8
- 
-#EXTINF:-1,. RTE Two UK
- 
-http://37.187.160.187:8000/live/ressler/skype/73.m3u8
- 
-#EXTINF:-1,. RTE One UK
- 
-http://37.187.160.187:8000/live/ressler/skype/72.m3u8
- 
-#EXTINF:-1,. National Geographic Channel UK
- 
-http://37.187.160.187:8000/live/ressler/skype/96.m3u8
- 
-#EXTINF:-1,. Nat Geo Wild UK
- 
-http://37.187.160.187:8000/live/ressler/skype/97.m3u8
- 
-#EXTINF:-1,. MTV Music UK
- 
-http://37.187.160.187:8000/live/ressler/skype/107.m3u8
- 
-#EXTINF:-1,. MTV Hits
- 
-http://37.187.160.187:8000/live/ressler/skype/108.m3u8
- 
-#EXTINF:-1,. MTV Classic UK
- 
-http://37.187.160.187:8000/live/ressler/skype/109.m3u8
- 
-#EXTINF:-1,. More4 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/64.m3u8
- 
-#EXTINF:-1,. ITV4 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/60.m3u8
- 
-#EXTINF:-1,. ITV3 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/59.m3u8
- 
-#EXTINF:-1,. ITV2 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/58.m3u8
- 
-#EXTINF:-1,. ITV1 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/55.m3u8
- 
-#EXTINF:-1,. Investigation Discovery UK
- 
-http://37.187.160.187:8000/live/ressler/skype/98.m3u8
- 
-#EXTINF:-1,. History Channel UK
- 
-http://37.187.160.187:8000/live/ressler/skype/90.m3u8
- 
-#EXTINF:-1,. Gold UK
- 
-http://37.187.160.187:8000/live/ressler/skype/84.m3u8
- 
-#EXTINF:-1,. E4 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/63.m3u8
- 
-#EXTINF:-1,. Drama
- 
-http://37.187.160.187:8000/live/ressler/skype/68.m3u8
- 
-#EXTINF:-1,. Discovery Science UK
- 
-http://37.187.160.187:8000/live/ressler/skype/94.m3u8
- 
-#EXTINF:-1,. Discovery History UK
- 
-http://37.187.160.187:8000/live/ressler/skype/93.m3u8
- 
-#EXTINF:-1,. Dave UK
- 
-http://37.187.160.187:8000/live/ressler/skype/83.m3u8
- 
-#EXTINF:-1,. Comedy Central UK
- 
-http://37.187.160.187:8000/live/ressler/skype/82.m3u8
- 
-#EXTINF:-1,. Channel 5 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/57.m3u8
- 
-#EXTINF:-1,. Channel 4 UK
- 
-http://37.187.160.187:8000/live/ressler/skype/56.m3u8
- 
-#EXTINF:-1,. CBS Reality UK
- 
-http://37.187.160.187:8000/live/ressler/skype/66.m3u8
- 
-#EXTINF:-1,. CBS Drama UK
- 
-http://37.187.160.187:8000/live/ressler/skype/67.m3u8
- 
-#EXTINF:-1,. CBeebies
- 
-http://37.187.160.187:8000/live/ressler/skype/129.m3u8
- 
-#EXTINF:-1,. BBC One UK
- 
-http://37.187.160.187:8000/live/ressler/skype/53.m3u8
- 
-#EXTINF:-1,. BBC Two UK
- 
-http://37.187.160.187:8000/live/ressler/skype/54.m3u8
- 
-#EXTINF:-1,. BBC Three UK
- 
-http://37.187.160.187:8000/live/ressler/skype/61.m3u8
- 
-#EXTINF:-1,. BBC Four UK
- 
-http://37.187.160.187:8000/live/ressler/skype/62.m3u8
- 
-#EXTINF:-1,. Animal Planet UK
- 
-http://37.187.160.187:8000/live/ressler/skype/95.m3u8
- 
-#EXTINF:-1,. Alibi UK
- 
-http://37.187.160.187:8000/live/ressler/skype/85.m3u8
- 
-#EXTINF:-1,. 5USA UK
- 
-http://37.187.160.187:8000/live/ressler/skype/70.m3u8
- 
-#EXTINF:-1,. 5* UK
- 
-http://37.187.160.187:8000/live/ressler/skype/71.m3u8
- 
-#EXTINF:-1,. 3e
- 
-http://37.187.160.187:8000/live/ressler/skype/76.m3u8
- 
-#EXTINF:-1,. TG4
- 
-http://37.187.160.187:8000/live/ressler/skype/75.m3u8
+#EXTINF:-1,UK: BBC2 IRELAND
+http://54.37.188.76:80/live/test1/test1/22071.ts
+EXTINF:-1,UK: ALIBI
+http://54.37.188.76:80/live/test1/test1/22074.ts
+EXTINF:-1,UK: ALIBI Backup
+http://54.37.188.76:80/live/test1/test1/22073.ts
+EXTINF:-1,UK: AMC
+http://54.37.188.76:80/live/test1/test1/22072.ts
+EXTINF:-1,UK: DAVE
+http://54.37.188.76:80/live/test1/test1/22060.ts
+EXTINF:-1,UK: DMAX
+http://54.37.188.76:80/live/test1/test1/22058.ts
+EXTINF:-1,UK: DMAX Backup
+http://54.37.188.76:80/live/test1/test1/22057.ts
+EXTINF:-1,UK: DRAMA
+http://54.37.188.76:80/live/test1/test1/22056.ts
+EXTINF:-1,UK: DRAMA Backup
+http://54.37.188.76:80/live/test1/test1/22055.ts
+EXTINF:-1,UK: DUNYA NEWS
+http://54.37.188.76:80/live/test1/test1/22162.ts
+EXTINF:-1,UK: E! ENTERTAINMENT
+http://54.37.188.76:80/live/test1/test1/22054.ts
+EXTINF:-1,UK: E! ENTERTAINMENT Backup
+http://54.37.188.76:80/live/test1/test1/22053.ts
+EXTINF:-1,UK: E4
+http://54.37.188.76:80/live/test1/test1/22052.ts
+EXTINF:-1,UK: E4 Backup
+http://54.37.188.76:80/live/test1/test1/22051.ts
+EXTINF:-1,UK: EDEN
+http://54.37.188.76:80/live/test1/test1/22138.ts
+EXTINF:-1,UK: EDEN Backup
+http://54.37.188.76:80/live/test1/test1/22137.ts
+EXTINF:-1,UK: FILM 4 HD
+http://54.37.188.76:80/live/test1/test1/21997.ts
+EXTINF:-1,UK: FILM 4 SD
+http://54.37.188.76:80/live/test1/test1/21996.ts
+EXTINF:-1,UK: FINE LIVING NETWORK
+http://54.37.188.76:80/live/test1/test1/22136.ts
+EXTINF:-1,UK: FOOD NETWORK
+http://54.37.188.76:80/live/test1/test1/22135.ts
+EXTINF:-1,UK: FOOD NETWORK Backup
+http://54.37.188.76:80/live/test1/test1/22134.ts
+EXTINF:-1,UK: FOX
+http://54.37.188.76:80/live/test1/test1/22049.ts
+EXTINF:-1,UK: FOX Backup
+http://54.37.188.76:80/live/test1/test1/22048.ts
+EXTINF:-1,UK: FOX NEWS
+http://54.37.188.76:80/live/test1/test1/22161.ts
+EXTINF:-1,UK: QUEST
+http://54.37.188.76:80/live/test1/test1/21939.ts
+EXTINF:-1,UK: REAL LIVES
+http://54.37.188.76:80/live/test1/test1/22120.ts
+EXTINF:-1,UK: REALLY
+http://54.37.188.76:80/live/test1/test1/22041.ts
+EXTINF:-1,UK: RTE NEWS
+http://54.37.188.76:80/live/test1/test1/22158.ts
+EXTINF:-1,UK: RTE ONE
+http://54.37.188.76:80/live/test1/test1/22040.ts
+EXTINF:-1,UK: RTE ONE Backup
+http://54.37.188.76:80/live/test1/test1/22039.ts
+EXTINF:-1,UK: RTE TWO
+http://54.37.188.76:80/live/test1/test1/22038.ts
+EXTINF:-1,UK: S4C
+http://54.37.188.76:80/live/test1/test1/22037.ts
+EXTINF:-1,UK: H2
+http://54.37.188.76:80/live/test1/test1/22128.ts
+EXTINF:-1,UK: H2 HD/FHD
+http://54.37.188.76:80/live/test1/test1/22127.ts
+EXTINF:-1,UK: CHANNEL 5 Backup
+http://54.37.188.76:80/live/test1/test1/22084.ts
+EXTINF:-1,UK: HISTORY
+http://54.37.188.76:80/live/test1/test1/22130.ts
+EXTINF:-1,UK: HISTORY HD/FHD
+http://54.37.188.76:80/live/test1/test1/22129.ts
+EXTINF:-1,UK: HOME
+http://54.37.188.76:80/live/test1/test1/22126.ts
+EXTINF:-1,UK: HORROR CHANNEL
+http://54.37.188.76:80/live/test1/test1/22047.ts
+EXTINF:-1,UK: HORROR CHANNEL Backup
+http://54.37.188.76:80/live/test1/test1/22046.ts
+EXTINF:-1,UK: NAT GEO WILD
+http://54.37.188.76:80/live/test1/test1/22122.ts
+EXTINF:-1,UK: NAT GEO WILD Backup
+http://54.37.188.76:80/live/test1/test1/22121.ts
+EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://54.37.188.76:80/live/test1/test1/22124.ts
+EXTINF:-1,UK: NATIONAL GEOGRAPHIC Backup
+http://54.37.188.76:80/live/test1/test1/22123.ts
+EXTINF:-1,UK: PICK
+http://54.37.188.76:80/live/test1/test1/21941.ts
+EXTINF:-1,UK: PICK Backup
+http://54.37.188.76:80/live/test1/test1/21940.ts
+EXTINF:-1,UK: KERRANG
+http://54.37.188.76:80/live/test1/test1/21961.ts
+EXTINF:-1,UK: LIFETIME
+http://54.37.188.76:80/live/test1/test1/22045.ts
+EXTINF:-1,UK: LIFETIME Backup
+http://54.37.188.76:80/live/test1/test1/22044.ts
+EXTINF:-1,UK: MAGIC Backup
+http://54.37.188.76:80/live/test1/test1/21958.ts
+EXTINF:-1,UK: BOX HITS
+http://54.37.188.76:80/live/test1/test1/21975.ts
+EXTINF:-1,UK: CAPITAL TV
+http://54.37.188.76:80/live/test1/test1/21974.ts
+EXTINF:-1,UK: CAPITAL TV Backup
+http://54.37.188.76:80/live/test1/test1/21973.ts
+EXTINF:-1,UK: CLUBLAND TV
+http://54.37.188.76:80/live/test1/test1/21970.ts
+EXTINF:-1,UK: HEART TV
+http://54.37.188.76:80/live/test1/test1/21965.ts
+EXTINF:-1,UK: HEART TV (back up)
+http://54.37.188.76:80/live/test1/test1/21964.ts
+EXTINF:-1,UK: MTV
+http://54.37.188.76:80/live/test1/test1/21956.ts
+EXTINF:-1,UK: MTV Backup
+http://54.37.188.76:80/live/test1/test1/21955.ts
+EXTINF:-1,UK: VH1
+http://54.37.188.76:80/live/test1/test1/21980.ts
+EXTINF:-1,UK: VH1 Backup
+http://54.37.188.76:80/live/test1/test1/21979.ts
+EXTINF:-1,UK: VINTAGE TV
+http://54.37.188.76:80/live/test1/test1/21978.ts
+EXTINF:-1,UK: VIVA UK (OMG)
+http://54.37.188.76:80/live/test1/test1/21977.ts
+EXTINF:-1,UK: VIVA UK Backup
+http://54.37.188.76:80/live/test1/test1/21976.ts
+EXTINF:-1,UK: SYFY
+http://54.37.188.76:80/live/test1/test1/22020.ts
+EXTINF:-1,UK: SYFY Backup
+http://54.37.188.76:80/live/test1/test1/22019.ts
+EXTINF:-1,UK: TG4
+http://54.37.188.76:80/live/test1/test1/22018.ts
+EXTINF:-1,UK: THE VAULT
+http://54.37.188.76:80/live/test1/test1/21982.ts
+EXTINF:-1,UK: THE VAULT Backup
+http://54.37.188.76:80/live/test1/test1/21981.ts
+EXTINF:-1,UK: TLC
+http://54.37.188.76:80/live/test1/test1/22118.ts
+EXTINF:-1,UK: TRAVEL CHANNEL
+http://54.37.188.76:80/live/test1/test1/22116.ts
