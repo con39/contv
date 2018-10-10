@@ -7,7 +7,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1,CA: DIY NETWORK HD
 http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
-#EXTINF:-1,UK: Disney Channel
+#EXTINF:-1, Disney Channel
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2166.m3u8
 #EXTINF:-1,UK: Disney Junior
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2165.m3u8
