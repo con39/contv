@@ -7,20 +7,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1,CA: DIY NETWORK HD
 http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
-#EXTM3U
-#EXTINF:0,UK: 3E Ireland
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1753.ts
-#EXTINF:0,UK: 4Seven HD
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1752.ts
-#EXTINF:0,UK: 5 Select
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1751.ts
-#EXTINF:0,UK: 5 Star
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1750.ts
-#EXTINF:0,UK: ABN TV
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1748.ts
-#EXTINF:0,UK: Ahlebait TV
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1747.ts
-#EXTINF:0,UK: Al Jazeera FHD
-http://s1.iptvforver.com:8000/live/stakenborg/stakenborg/1746.ts
-#EXTINF:0,UK: Alibi HD
-h
+#EXTINF:-1,UK: Disney Channel
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2166.m3u8
+#EXTINF:-1,UK: Disney Junior
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2165.m3u8
+#EXTINF:-1,UK National Geographic UK
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2160.m3u8
+#EXTINF:-1,UK: Sky Action Movies
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2191.m3u8
