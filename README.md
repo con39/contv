@@ -4,32 +4,177 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
-#EXTINF:-1,CA: DISCOVERY CHANNEL HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77236.ts
-#EXTINF:-1,CA: DISCOVERY INVESTIGATION
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/129634.ts
-#EXTINF:-1,CA: Discovery Science FHD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77001.ts
-#EXTINF:-1,CA: DISCOVERY VELOCITY HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/121162.ts
-#EXTINF:-1,CA: Disney Channel HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77000.ts
-#EXTINF:-1,CA: DISNEY FRENCH
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77323.ts
-#EXTINF:-1,CA: DISNEY Junior HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77239.ts
-#EXTINF:-1,CA: DISNEY XD HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77409.ts
+
 #EXTINF:-1,CA: DIY NETWORK HD
 http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
-#EXTINF:-1,CA: DOCUMENTARY CHANNEL HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/107273.ts
-#EXTINF:-1,CA: E! Entertainment HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77197.ts
-#EXTINF:-1,CA: E! FHD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/124071.ts
-#EXTINF:-1,CA: EVASION (FR)
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/117935.ts
-#EXTINF:-1,CA: Family
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/126307.ts
+#EXTINF:-1,. VH1 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/110.m3u8
+ 
+#EXTINF:-1,. Sky News
+ 
+http://37.187.160.187:8000/live/ressler/skype/89.m3u8
+ 
+#EXTINF:-1,. Sky Living UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/80.m3u8
+ 
+#EXTINF:-1,. Sky Atlantic UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/81.m3u8
+ 
+#EXTINF:-1,. Sky Arts 1 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/102.m3u8
+ 
+#EXTINF:-1,. Sky 2 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/79.m3u8
+ 
+#EXTINF:-1,. Sky 1 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/77.m3u8
+ 
+#EXTINF:-1,. RTE Two UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/73.m3u8
+ 
+#EXTINF:-1,. RTE One UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/72.m3u8
+ 
+#EXTINF:-1,. National Geographic Channel UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/96.m3u8
+ 
+#EXTINF:-1,. Nat Geo Wild UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/97.m3u8
+ 
+#EXTINF:-1,. MTV Music UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/107.m3u8
+ 
+#EXTINF:-1,. MTV Hits
+ 
+http://37.187.160.187:8000/live/ressler/skype/108.m3u8
+ 
+#EXTINF:-1,. MTV Classic UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/109.m3u8
+ 
+#EXTINF:-1,. More4 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/64.m3u8
+ 
+#EXTINF:-1,. ITV4 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/60.m3u8
+ 
+#EXTINF:-1,. ITV3 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/59.m3u8
+ 
+#EXTINF:-1,. ITV2 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/58.m3u8
+ 
+#EXTINF:-1,. ITV1 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/55.m3u8
+ 
+#EXTINF:-1,. Investigation Discovery UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/98.m3u8
+ 
+#EXTINF:-1,. History Channel UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/90.m3u8
+ 
+#EXTINF:-1,. Gold UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/84.m3u8
+ 
+#EXTINF:-1,. E4 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/63.m3u8
+ 
+#EXTINF:-1,. Drama
+ 
+http://37.187.160.187:8000/live/ressler/skype/68.m3u8
+ 
+#EXTINF:-1,. Discovery Science UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/94.m3u8
+ 
+#EXTINF:-1,. Discovery History UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/93.m3u8
+ 
+#EXTINF:-1,. Dave UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/83.m3u8
+ 
+#EXTINF:-1,. Comedy Central UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/82.m3u8
+ 
+#EXTINF:-1,. Channel 5 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/57.m3u8
+ 
+#EXTINF:-1,. Channel 4 UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/56.m3u8
+ 
+#EXTINF:-1,. CBS Reality UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/66.m3u8
+ 
+#EXTINF:-1,. CBS Drama UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/67.m3u8
+ 
+#EXTINF:-1,. CBeebies
+ 
+http://37.187.160.187:8000/live/ressler/skype/129.m3u8
+ 
+#EXTINF:-1,. BBC One UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/53.m3u8
+ 
+#EXTINF:-1,. BBC Two UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/54.m3u8
+ 
+#EXTINF:-1,. BBC Three UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/61.m3u8
+ 
+#EXTINF:-1,. BBC Four UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/62.m3u8
+ 
+#EXTINF:-1,. Animal Planet UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/95.m3u8
+ 
+#EXTINF:-1,. Alibi UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/85.m3u8
+ 
+#EXTINF:-1,. 5USA UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/70.m3u8
+ 
+#EXTINF:-1,. 5* UK
+ 
+http://37.187.160.187:8000/live/ressler/skype/71.m3u8
+ 
+#EXTINF:-1,. 3e
+ 
+http://37.187.160.187:8000/live/ressler/skype/76.m3u8
+ 
+#EXTINF:-1,. TG4
+ 
+http://37.187.160.187:8000/live/ressler/skype/75.m3u8
