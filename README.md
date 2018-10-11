@@ -9,46 +9,58 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2208.m3u8
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2207.m3u8
 #EXTINF:-1,UK: RTE NEWS
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2206.m3u8
+#EXTINF:-1,(UK) BBC One Scotland (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15600.m3u8
 
-#EXTINF:-1,UK: Sky Disney channel
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2161.m3u8
-#EXTINF:-1,UK: Sky Movies Select HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2187.m3u8
-#EXTINF:-1,UK: Sky News
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2159.m3u8
-#EXTINF:-1,UK: SKY1
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2170.m3u8
-#EXTINF:-1,UK: SKY 2
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2169.m3u8
-
-#EXTINF:-1,UK: Spike
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2201.m3u8
-#EXTINF:-1,UK: TRUE MOVIES
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2167.m3u8
-#EXTINF:-1,UK: BT Sports Espn
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2193.m3u8
 #EXTINF:-1,UK: ITV 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2215.m3u8
 #EXTINF:-1,UK: ITV 2 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2214.m3u8
-#EXTINF:-1,UK: Sky Thriller
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2192.m3u8
-
-#EXTINF:-1,UK: At The Races
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2237.m3u8
 #EXTINF:-1,(UK) 5 USA
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15605.m3u8
 #EXTINF:-1,5 USA +1 >HD<(UK)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/22482.m3u8
+#EXTINF:-1,(UK) Really
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15505.m3u8
+#EXTINF:-1,(UK) Quest
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15508.m3u8
+#EXTINF:-1,UK | Pick TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15510.m3u8
+
+#EXTINF:-1,(UK) Lifetime
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15526.m3u8
+#EXTINF:-1,(UK)  ITV 4 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15530.m3u8
+#EXTINF:-1,(UK) ITV 3 (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15531.m3u8
+#EXTINF:-1,UK | Virgin 2
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15534.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,UK: TRUE MOVIES
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2167.m3u8
+#EXTINF:-1,UK: BT Sports Espn
+
+
+
+#EXTINF:-1,UK: At The Races
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2237.m3u8
+
 
 #EXTINF:-1,(UK)  Animal Planet (SD/HD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15603.m3u8
 
-#EXTINF:-1,(UK) BBC One Scotland (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15600.m3u8
 
-#EXTINF:-1,(UK) BBC Three HD
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15598.m3u8
+
+
 
 #EXTINF:-1,(UK) Baby TV
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15601.m3u8
@@ -189,28 +201,22 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/13287.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13282.m3u8
 #EXTINF:-1,UK: Sky Action Movies
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2191.m3u8
-
+#EXTINF:-1,UK: Sky Disney channel
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2161.m3u8
+#EXTINF:-1,UK: Sky Movies Select HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2187.m3u8
 #EXTINF:-1,(UK) Sky Cinema Premiere +1
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15520.m3u
+#EXTINF:-1,UK: Sky Thriller
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2192.m3u8
+#EXTINF:-1,UK: TRUE MOVIES
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2167.m3u8
 
 
 
 
-#EXTINF:-1,(UK) Really
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15505.m3u8
-#EXTINF:-1,(UK) Quest
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15508.m3u8
-#EXTINF:-1,UK | Pick TV
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15510.m3u8
 
-#EXTINF:-1,(UK) Lifetime
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15526.m3u8
-#EXTINF:-1,(UK)  ITV 4 (HD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15530.m3u8
-#EXTINF:-1,(UK) ITV 3 (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15531.m3u8
-#EXTINF:-1,UK | Virgin 2
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15534.m3u8
+
 #EXTINF:-1,(UK) Home&Health HD<
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15536.m3u8
 #EXTINF:-1,(UK) Home
