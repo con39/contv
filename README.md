@@ -165,7 +165,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15376.m3u8
 #EXTINF:-1,MTV Rocks-UK
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15399.m3u8
 
-
+#EXTINF:-1,UK: BT Sport 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2157.m3u8
 #EXTINF:-1,UK: At The Races
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2237.m3u8
 #EXTINF:-1,BT Sport Europe UK
