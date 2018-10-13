@@ -222,7 +222,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15380.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15377.m3u8
 #EXTINF:-1,(UK) VH1 >HD<
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15460.m3u8
-
+#EXTINF:-1,FR: MTV Dance UK
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11421.m3u8
 
 
 #EXTINF:-1,(UK) True Entertainment
