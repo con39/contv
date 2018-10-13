@@ -348,3 +348,50 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/13289.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13291.m3u8
 #EXTINF:-1,(UK) Sky Movies Comedy
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13292.m3u8
+http://xc.kingtv.pro:504/live/1012/2018/6759.ts
+#EXTINF:-1,|UK| BT Sport ESPN HD
+http://xc.kingtv.pro:504/live/1012/2018/6779.ts
+#EXTINF:-1,|UK| BT SPORTS 1 HD
+http://xc.kingtv.pro:504/live/1012/2018/6782.ts
+#EXTINF:-1,|UK| BT SPORTS 2 HD
+http://xc.kingtv.pro:504/live/1012/2018/6781.ts
+#EXTINF:-1,|UK| BT SPORTS 3HD
+http://xc.kingtv.pro:504/live/1012/2018/6780.ts
+#EXTINF:-1,|UK| EIR SPORTS 1
+http://xc.kingtv.pro:504/live/1012/2018/6763.ts
+#EXTINF:-1,|UK| EIR SPORTS 2
+http://xc.kingtv.pro:504/live/1012/2018/6764.ts
+#EXTINF:-1,|UK| Eurosport 1 HD
+http://xc.kingtv.pro:504/live/1012/2018/6760.ts
+#EXTINF:-1,|UK| EUROSPORT 2 HD
+http://xc.kingtv.pro:504/live/1012/2018/6765.ts
+#EXTINF:-1,|UK| EXTREME SPORTS
+http://xc.kingtv.pro:504/live/1012/2018/6762.ts
+#EXTINF:-1,|UK| Fight Channel HR
+http://xc.kingtv.pro:504/live/1012/2018/6756.ts
+#EXTINF:-1,|UK| SKY SPORT F1
+http://xc.kingtv.pro:504/live/1012/2018/6777.ts
+#EXTINF:-1,|UK| Sky Sports Action HD
+http://xc.kingtv.pro:504/live/1012/2018/6770.ts
+#EXTINF:-1,|UK| Sky Sports Arena HD
+http://xc.kingtv.pro:504/live/1012/2018/6771.ts
+#EXTINF:-1,|UK| Sky Sports Cricket  HD
+http://xc.kingtv.pro:504/live/1012/2018/6772.ts
+#EXTINF:-1,|UK| Sky Sports F1 HD
+http://xc.kingtv.pro:504/live/1012/2018/6767.ts
+#EXTINF:-1,|UK| Sky Sports Football HD
+http://xc.kingtv.pro:504/live/1012/2018/6773.ts
+#EXTINF:-1,|UK| Sky Sports Golf HD
+http://xc.kingtv.pro:504/live/1012/2018/6774.ts
+#EXTINF:-1,|UK| Sky Sports Main Event HD
+http://xc.kingtv.pro:504/live/1012/2018/6768.ts
+#EXTINF:-1,|UK| SKY SPORTS MIX HD
+http://xc.kingtv.pro:504/live/1012/2018/6778.ts
+#EXTINF:-1,|UK| Sky Sports News HD
+http://xc.kingtv.pro:504/live/1012/2018/6775.ts
+#EXTINF:-1,|UK| Sky Sports Prem Lg HD
+http://xc.kingtv.pro:504/live/1012/2018/6776.ts
+#EXTINF:-1,|UK| Sky Sports The Open HD
+http://xc.kingtv.pro:504/live/1012/2018/6769.ts
+#EXTINF:-1,|UK| WWE 24
+http://xc.kingtv.pro:504/live/1012/2018/6753.ts
