@@ -1,13 +1,10 @@
 
 #EXTINF:-1,UK: Disney Channel
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2166.m3u8
-#EXTINF:-1,(UK) Cartoonito
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15579.m3u8
 #EXTINF:-1,(UK) Disney Channel >HD<
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15560.m3u8
-
-
-
+#EXTINF:-1,(UK) Disney Junior >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15559.m3u8
 #EXTINF:-1,UK: Disney Junior
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2165.m3u8
 #EXTINF:-1,Tiny Pop-(uk)
@@ -66,6 +63,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/22476.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15570.m3u8
 #EXTINF:-1,(UK) Comedy Central Extra +1 (SD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/22477.m3u8
+#EXTINF:-1,(UK) Comedy Central Xtra
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15569.m3u8
 #EXTINF:-1,(UK) E!
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15414.m3u8
 #EXTINF:-1,(UK) E4
@@ -98,8 +97,6 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15529.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15532.m3u8
 #EXTINF:-1,ITV 1 (HD)-UK
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15533.m3u8
-#EXTINF:-1,(UK) SKY Fine Living (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/22481.m3u8
 #EXTINF:-1,(UK) FOX Crime
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15543.m3u8
 #EXTINF:-1,(UK) Five >HD<
@@ -110,6 +107,41 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15413.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15555.m3u8
 #EXTINF:-1,Sky Atlantic >HD<-UK
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15501.m3u8
+#EXTINF:-1,(UK) RTÉ2 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15503.m3u8
+#EXTINF:-1,(UK) Channel 5 (SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15573.m3u8
+#EXTINF:-1,Channel 4 (SD/HD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15574.m3u8
+#EXTINF:-1,(UK) Challenge
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15418.m3u8
+#EXTINF:-1,(UK) CBS Action (SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15577.m3u8
+#EXTINF:-1,(UK)LiveTime
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15521.m3u8
+#EXTINF:-1,(UK) PBS America
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15396.m3u8
+#EXTINF:-1,BBC ONE (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/25915.m3u8
+#EXTINF:-1,CA: DIY NETWORK HD
+http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
+#EXTINF:-1,(UK)  ITV Be (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15529.m3u8
+#EXTINF:-1,(UK) SKY Fine Living (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22481.m3u8
+#EXTINF:-1,SyFy -UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15471.m3u8
+#EXTINF:-1,(UK) SONY CHANNEL
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15387.m3u8
+#EXTINF:-1,(UK) Sony Crime Channel2.
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15380.m3u8
+#EXTINF:-1,(UK) True Entertainment
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15466.m3u8
+#EXTINF:-1,(UK) TLC
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15468.m3u8
+
+
+
 
 #EXTINF:-1, MOVIES
 #EXTINF:-1,(UK) Sky Cinema Family
@@ -140,12 +172,10 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/13292.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15548.m3u8
 #EXTINF:-1,(UK) TCM Movies (HD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15383.m3u8
-
-
-
-
-
-
+#EXTINF:-1,UK : SONY MOVIES
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15386.m3u8
+#EXTINF:-1,(UK) True Movies +1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15381.m3u8
 
 
 
@@ -160,6 +190,18 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15515.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15536.m3u8
 #EXTINF:-1,(UK) Home
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15408.m3u8
+#EXTINF:-1,(UK) Dmax
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15556.m3u8
+#EXTINF:-1,(UK) Discovery History
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15565.m3u8
+#EXTINF:-1,(UK) Discovery Channel (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15566.m3u8
+#EXTINF:-1,(UK) Discovery Shed (HD/SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15562.m3u8
+#EXTINF:-1,(UK) Discovery Science (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15563.m3u8
+#EXTINF:-1,(UK) Crime & Investigation (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15568.m3u8
 
 
 
@@ -171,8 +213,18 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15416.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15376.m3u8
 #EXTINF:-1,MTV Rocks-UK
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15399.m3u8
-
-
+#EXTINF:-1,(UK) Scuzz
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15389.m3u8
+#EXTINF:-1,(UK) MTV Music
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15517.m3u8
+#EXTINF:-1,(UK) MTV  +1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15404.m3u8
+#EXTINF:-1,(UK) VH1 Classic
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15377.m3u8
+#EXTINF:-1,(UK) VH1 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15460.m3u8
+#EXTINF:-1,FR: MTV Dance UK
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11421.m3u8
 
 
 
@@ -216,115 +268,27 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/21987.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/21959.m3u8
 #EXTINF:-1,SkySp Arena SD-UK
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/21978.m3u8
-
-
-
-
-#EXTINF:-1,SyFy -UK
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15471.m3u8
-#EXTINF:-1,(UK) SONY CHANNEL
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15387.m3u8
-#EXTINF:-1,(UK) Scuzz
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15389.m3u8
-#EXTINF:-1,(UK) MTV Music
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15517.m3u8
-#EXTINF:-1,(UK) MTV  +1
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15404.m3u8
-#EXTINF:-1,UK : SONY MOVIES
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15386.m3u8
-#EXTINF:-1,(UK) Sony Crime Channel2.
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15380.m3u8
-#EXTINF:-1,(UK) VH1 Classic
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15377.m3u8
-#EXTINF:-1,(UK) VH1 >HD<
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15460.m3u8
-#EXTINF:-1,FR: MTV Dance UK
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11421.m3u8
-
-
-#EXTINF:-1,(UK) True Entertainment
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15466.m3u8
-#EXTINF:-1,(UK) True Movies +1
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15381.m3u8
-
-#EXTINF:-1,(UK) TLC
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15468.m3u8
-
-
-#EXTINF:-1,(UK) Scuzz
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15389.m3u8
-#EXTINF:-1,(UK) MTV Music
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15517.m3u8
-#EXTINF:-1,(UK) MTV  +1
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15404.m3u8
-
-
-#EXTINF:-1,(UK) SKY News >HD<
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15489.m3u8
-#EXTINF:-1,(UK) RTÉ2 >HD<
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15503.m3u8
-#EXTINF:-1,(UKI) RTE News Now
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15393.m3u8
-
-#EXTINF:-1,(UK) Dmax
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15556.m3u8
-#EXTINF:-1,(UK) Disney Junior >HD<
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15559.m3u8
-
-#EXTINF:-1,(UK) Discovery History
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15565.m3u8
-#EXTINF:-1,(UK) Discovery Channel (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15566.m3u8
-
-#EXTINF:-1,(UK) Comedy Central Xtra
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15569.m3u8
 #EXTINF:-1,Liverpool FC (UK)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15525.m3u8
-#EXTINF:-1,(UK) Channel 5 (SD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15573.m3u8
-#EXTINF:-1,Channel 4 (SD/HD)-UK
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15574.m3u8
-#EXTINF:-1,(UK) Challenge
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15418.m3u8
-
-#EXTINF:-1,(UK) Discovery Shed (HD/SD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15562.m3u8
-#EXTINF:-1,(UK) Discovery Science (HD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15563.m3u8
-#EXTINF:-1,(UK) Crime & Investigation (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15568.m3u8
-
-#EXTINF:-1,(UK) CBS Action (SD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15577.m3u8
-
-#EXTINF:-1,(UK)LiveTime
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15521.m3u8
-
-#EXTINF:-1,(UK) PBS America
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15396.m3u8
-
-#EXTINF:-1,BBC ONE (UK)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/25915.m3u8
-
-#EXTINF:-1,CA: DIY NETWORK HD
-http://niobzca.cf:8080/live/cmauicv/jGeyQoKVnt/77324.ts
-#EXTINF:-1,(UK) Virgin3
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15528.m3u8
-#EXTINF:-1,(UK)  ITV Be (HD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15529.m3u8
-#EXTINF:-1,(UK) ITV 2 (HD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15532.m3u8
-#EXTINF:-1,ITV 1 (HD)-UK
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15533.m3u8
-#EXTINF:-1,(UK) SKY Fine Living (FHD)
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/22481.m3u8
 
 
 
 
 
-#EXTINF:-1,(UK) FOX Crime
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15543.m3u8
+
+
+
+#EXTINF:-1,(UKI) RTE News Now
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15393.m3u8
+#EXTINF:-1,(UK) SKY News >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15489.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,(UK) Five >HD<
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15547.m3u8
 #EXTINF:-1,(UK) Eden
@@ -335,8 +299,7 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15555.m3u8
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2160.m3u8
 #EXTINF:-1,UK: Sky Action Movies
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2191.m3u8
-#EXTINF:-1,(UK) Nickelodeon >HD<
-http://portal.simiptv.com:8001/live/SURYA/SURYA1/15512.m3u8
+
 #EXTINF:-1,Sky Sports Premier League FHD (UK)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/21964.m3u8
 #EXTINF:-1,(UK) Sky Sports News 
