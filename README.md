@@ -334,7 +334,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/13289.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13291.m3u8
 #EXTINF:-1,(UK) Sky Movies Comedy
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13292.m3u8
-
+#EXTINF:-1,     Www.list-iptv.com        (UK) History Channel
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15537.m3u8
 
 
 
