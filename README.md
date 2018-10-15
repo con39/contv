@@ -21,6 +21,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15511.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15512.m3u8
 #EXTINF:-1,(UK) Nick Junior
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15513.m3u8
+#EXTINF:-1,(UK) Cartoonito
+http://portal.simiptv.com:8001/live/MV/bhaskar/15579.ts
 
 
 #EXTINF:-1,UK: RTE 1
@@ -227,12 +229,12 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15460.m3u8
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11421.m3u8
 
 
-
+#EXTINF:-1,UK: BT Sport 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2157.ts
 
 #EXTINF:-1,UK: BT Sport 2 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2157.m3u8
 #EXTINF:-1,UK: BT Sport 2 HD
-
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2157.m3u8
 #EXTINF:-1,UK: At The Races
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2237.m3u8
