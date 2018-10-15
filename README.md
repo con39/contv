@@ -201,6 +201,9 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15565.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15566.m3u8
 #EXTINF:-1,(UK) Discovery Shed (HD/SD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15562.m3u8
+#EXTINF:-1,[UK] HISTORY
+http://195.154.107.246:1155/live/najib/2018/2272.ts
+
 #EXTINF:-1,(UK) Discovery Science (HD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15563.m3u8
 #EXTINF:-1,(UK) Crime & Investigation (FHD)
