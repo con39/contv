@@ -33,7 +33,8 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2207.m3u8
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2206.m3u8
 #EXTINF:-1,(UK) BBC One Scotland (FHD)
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15600.m3u8
-
+#EXTINF:-1,Gold HD_UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15540.ts
 #EXTINF:-1,UK: ITV 1 HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2215.m3u8
 #EXTINF:-1,UK: ITV 2 HD
