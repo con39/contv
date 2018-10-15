@@ -179,7 +179,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15383.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15386.m3u8
 #EXTINF:-1,(UK) True Movies +1
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15381.m3u8
-
+#EXTINF:-1,     Www.list-iptv.com        OSN Movies Disney HD
+http://smart-hdip.com:6204/live/cZq140eC40/P8QrDJn4kK/9606.ts
 
 
 
