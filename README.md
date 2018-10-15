@@ -362,7 +362,8 @@ http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/940.ts
 http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/941.ts
 #EXTINF:-1,BT SPORTS ESPN
 http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/942.ts
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
 
 
 
