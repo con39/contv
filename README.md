@@ -336,37 +336,8 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/13291.m3u8
 #EXTINF:-1,(UK) Sky Movies Comedy
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/13292.m3u8
 
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/887.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/883.ts
-#EXTINF:-1,SKY SPORT ARENA HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/879.ts
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/880.ts
-#EXTINF:-1,SKY SPORTS MIX HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/884.ts
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/886.ts
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/882.ts
-#EXTINF:-1,SKY SPORTS CRICKET HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/881.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/885.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/939.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/940.ts
-#EXTINF:-1,BT SPORTS 3HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/941.ts
-#EXTINF:-1,BT SPORTS ESPN
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/942.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
-
-
-
-
-
+#EXTINF:-1,     Www.list-iptv.com        vip_E!_HD
+http://xtream.hopto.me:9000/live/salah/123456/17028.ts
+#EXTINF:-1,     Www.list-iptv.com        vip_History_Channel_HD
+http://xtream.hopto.me:9000/live/salah/123456/17023.ts
 
