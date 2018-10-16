@@ -430,19 +430,39 @@ http://xtream.hopto.me:9000/live/salah/123456/17000.ts
 http://xtream.hopto.me:9000/live/salah/123456/16999.ts
 #EXTINF:-1,     Www.list-iptv.com        vip_Nat_GEO_Wild_HD
 http://xtream.hopto.me:9000/live/salah/123456/16998.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_Nickelodeon_HD
+#EXTINF:-1,             vip_Nickelodeon_HD
 http://xtream.hopto.me:9000/live/salah/123456/16996.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_Syfy_HD
+#EXTINF:-1,            vip_Syfy_HD
 http://xtream.hopto.me:9000/live/salah/123456/16981.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_TLC_HD
+#EXTINF:-1,            vip_TLC_HD
 http://xtream.hopto.me:9000/live/salah/123456/16979.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_Travel
+#EXTINF:-1,            vip_Travel
 http://xtream.hopto.me:9000/live/salah/123456/16978.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_Discovery IDX HD
+#EXTINF:-1,             vip_Discovery IDX HD
 http://xtream.hopto.me:9000/live/salah/123456/14386.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_FIGHT NETWORK
+#EXTINF:-1,            vip_FIGHT NETWORK
 http://xtream.hopto.me:9000/live/salah/123456/12446.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_B4U-Aflam
+#EXTINF:-1,            vip_B4U-Aflam
 http://xtream.hopto.me:9000/live/salah/123456/12432.ts
-#EXTINF:-1,     Www.list-iptv.com        vip_WWE
+#EXTINF:-1,            vip_WWE
 http://xtream.hopto.me:9000/live/salah/123456/4311.ts
+
+
+#EXTINF:-1,             TR: beIN SPORTS 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/625.ts
+#EXTINF:-1,            TR: beIN SPORTS 1 SD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/624.ts
+#EXTINF:-1,             TR: beIN SPORTS 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/623.ts
+#EXTINF:-1,             TR: beIN SPORTS 2 SD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/622.ts
+#EXTINF:-1,            TR: beIN SPORTS 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/621.ts
+#EXTINF:-1,             TR: beIN SPORTS 3 SD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/620.ts
+#EXTINF:-1,            TR: beIN SPORTS 4 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/619.ts
+#EXTINF:-1,            TR: beIN SPORTS 4 SD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/618.ts
+#EXTINF:-1,            TR: beIN SPORTS MAX 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/613.ts
