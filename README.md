@@ -27,7 +27,8 @@ http://portal.simiptv.com:8001/live/MV/bhaskar/15579.ts
 http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1208.ts
 #EXTINF:-1,|UK| NICKTOONS UK HD
 http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1934.ts
-
+#EXTINF:-1,UK:DISNEY XD
+http://46.19.141.130:8000/live/talat/karaman/2830.ts
 
 
 #EXTINF:-1,UK: RTE 1
