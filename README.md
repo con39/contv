@@ -23,6 +23,11 @@ http://portal.simiptv.com:8001/live/SURYA/SURYA1/15512.m3u8
 http://portal.simiptv.com:8001/live/SURYA/SURYA1/15513.m3u8
 #EXTINF:-1,(UK) Cartoonito
 http://portal.simiptv.com:8001/live/MV/bhaskar/15579.ts
+#EXTINF:-1,|UK| Nickelodeon HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1208.ts
+#EXTINF:-1,|UK| NICKTOONS UK HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1934.ts
+
 
 
 #EXTINF:-1,UK: RTE 1
