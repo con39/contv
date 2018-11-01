@@ -198,3 +198,40 @@ http://163.172.83.203:25461/live/ggy/ggy/49064.m3u8
 http://163.172.83.203:25461/live/ggy/ggy/49063.m3u8
 #EXTINF:-1,bt sports 3
 http://163.172.83.203:25461/live/ggy/ggy/49062.m3u8
+
+#EXTINF:-1,[UK] DISNEY CHANNEL HD
+http://world-ipsat.com:1155/live/maria/12345678/2925.m3u8
+#EXTINF:-1,[UK] DISNEY XD
+http://world-ipsat.com:1155/live/maria/12345678/2924.m3u8
+#EXTINF:-1,[UK] DISNEY JUNIOR HD
+http://world-ipsat.com:1155/live/maria/12345678/2926.m3u8
+#EXTINF:-1,[UK] DISNEY JUNIOR
+http://world-ipsat.com:1155/live/maria/12345678/2268.m3u8
+#EXTINF:-1,====UK_SPORTS_CHANNEL====
+http://world-ipsat.com:1155/live/maria/12345678/1015.m3u8
+#EXTINF:-1,[UK] SKY SPORT 1 HD
+http://world-ipsat.com:1155/live/maria/12345678/1016.m3u8
+#EXTINF:-1,[UK] SKY SPORT 2 HD
+http://world-ipsat.com:1155/live/maria/12345678/1017.m3u8
+#EXTINF:-1,[UK] SKY SPORT 3 HD
+http://world-ipsat.com:1155/live/maria/12345678/1018.m3u8
+#EXTINF:-1,[UK] SKY SPORTS  4 HD
+http://world-ipsat.com:1155/live/maria/12345678/1019.m3u8
+#EXTINF:-1,[UK] SKY SPORT 5HD
+http://world-ipsat.com:1155/live/maria/12345678/56.m3u8
+#EXTINF:-1,[UK] BT SPORT 1 HD
+http://world-ipsat.com:1155/live/maria/12345678/1011.m3u8
+#EXTINF:-1,[UK] BT SPORT 2 HD
+http://world-ipsat.com:1155/live/maria/12345678/1020.m3u8
+#EXTINF:-1,[UK] BT SPORT 3 HD
+http://world-ipsat.com:1155/live/maria/12345678/2948.m3u8
+#EXTINF:-1,[UK] PREMIER SPORT HD
+http://world-ipsat.com:1155/live/maria/12345678/2947.m3u8
+#EXTINF:-1,[UK] BT SPORT ESPN
+http://world-ipsat.com:1155/live/maria/12345678/2946.m3u8
+#EXTINF:-1,[UK] CITY
+http://world-ipsat.com:1155/live/maria/12345678/83.m3u8
+#EXTINF:-1,[UK] SKY PREMIUM
+http://world-ipsat.com:1155/live/maria/12345678/159.m3u8
+#EXTINF:-1,[UK] SKY MOVIE ADVENTURE HD
+http://world-ipsat.com:1155/live/maria/12345678/158.m3u8
