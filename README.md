@@ -1,237 +1,238 @@
 
 #EXTM3U
-#EXTINF:-1,CHANNEL 4
-http://163.172.83.203:25461/live/ggy/ggy/48866.m3u8
-#EXTINF:-1,CHANNEL 5
-http://163.172.83.203:25461/live/ggy/ggy/48865.m3u8
-#EXTINF:-1,SKY 1
-http://163.172.83.203:25461/live/ggy/ggy/48838.m3u8
-#EXTINF:-1,SKY 2
-http://163.172.83.203:25461/live/ggy/ggy/48837.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://163.172.83.203:25461/live/ggy/ggy/48836.m3u8
-#EXTINF:-1,YOUR TV
-http://163.172.83.203:25461/live/ggy/ggy/48864.m3u8
-#EXTINF:-1,TRU TV
-http://163.172.83.203:25461/live/ggy/ggy/48863.m3u8
-#EXTINF:-1,SPIKE
-http://163.172.83.203:25461/live/ggy/ggy/48855.m3u8
-#EXTINF:-1,E!
-http://163.172.83.203:25461/live/ggy/ggy/48862.m3u8
+#EXTINF:-1,RTE One
+http://51.15.15.112:8080/live/steven/steven123/4227.ts
+#EXTINF:-1,RTE1 +1
+http://51.15.15.112:8080/live/steven/steven123/5196.ts
+#EXTINF:-1,RTE One HD
+http://51.15.15.112:8080/live/steven/steven123/1.ts
+#EXTINF:-1,RTE2
+http://51.15.15.112:8080/live/steven/steven123/4228.ts
+#EXTINF:-1,RTE2 HD
+http://51.15.15.112:8080/live/steven/steven123/2.ts
+#EXTINF:-1,RTEjr
+http://51.15.15.112:8080/live/steven/steven123/3685.ts
+#EXTINF:-1,RTE News NOW
+http://51.15.15.112:8080/live/steven/steven123/429.ts
+#EXTINF:-1,VM One SD
+http://51.15.15.112:8080/live/steven/steven123/4245.ts
+#EXTINF:-1,VM One HD
+http://51.15.15.112:8080/live/steven/steven123/44.ts
+#EXTINF:-1,VM One +1
+http://51.15.15.112:8080/live/steven/steven123/36.ts
+#EXTINF:-1,VM Two
+http://51.15.15.112:8080/live/steven/steven123/4235.ts
+#EXTINF:-1,VM Two HD
+http://51.15.15.112:8080/live/steven/steven123/39.ts
+#EXTINF:-1,VM Three HD
+http://51.15.15.112:8080/live/steven/steven123/2314.ts
+#EXTINF:-1,TG4
+http://51.15.15.112:8080/live/steven/steven123/3754.ts
+#EXTINF:-1,TG4 HD
+http://51.15.15.112:8080/live/steven/steven123/580.ts
+#EXTINF:-1,UTV Ireland
+http://51.15.15.112:8080/live/steven/steven123/4174.ts
+#EXTINF:-1,UTV Ireland +1
+http://51.15.15.112:8080/live/steven/steven123/5187.ts
+#EXTINF:-1,BBC 1 HD NI
+http://51.15.15.112:8080/live/steven/steven123/4285.ts
+#EXTINF:-1,BBC 2 NI
+http://51.15.15.112:8080/live/steven/steven123/4340.ts
+#EXTINF:-1,BBC News HD
+http://51.15.15.112:8080/live/steven/steven123/3419.ts
+#EXTINF:-1,BBC Parliment
+http://51.15.15.112:8080/live/steven/steven123/5163.ts
+#EXTINF:-1,Bloomberg HD
+http://51.15.15.112:8080/live/steven/steven123/4911.ts
+#EXTINF:-1,CNN HD
+http://51.15.15.112:8080/live/steven/steven123/3806.ts
+#EXTINF:-1,CNN
+http://51.15.15.112:8080/live/steven/steven123/4973.ts
+#EXTINF:-1,CNN Usa
+http://51.15.15.112:8080/live/steven/steven123/3620.ts
+#EXTINF:-1,Al Jazeera English HD
+http://51.15.15.112:8080/live/steven/steven123/4290.ts
+#EXTINF:-1,France 24 UK
+http://51.15.15.112:8080/live/steven/steven123/4948.ts
+#EXTINF:-1,Russia Today
+http://51.15.15.112:8080/live/steven/steven123/5018.ts
+#EXTINF:-1,TRT World HD
+http://51.15.15.112:8080/live/steven/steven123/3441.ts
+#EXTINF:-1,USA: ABC News HD
+http://51.15.15.112:8080/live/steven/steven123/5008.ts
+#EXTINF:-1,USA: CBS News
+http://51.15.15.112:8080/live/steven/steven123/3208.ts
+#EXTINF:-1,USA: CNBC US
+http://51.15.15.112:8080/live/steven/steven123/4226.ts
+#EXTINF:-1,USA: FOX News
+http://51.15.15.112:8080/live/steven/steven123/640.ts
+#EXTINF:-1,USA: WeatherChannel
+http://51.15.15.112:8080/live/steven/steven123/5288.ts
+#EXTINF:-1,BBC 1
+http://51.15.15.112:8080/live/steven/steven123/4869.ts
+#EXTINF:-1,BBC One HD
+http://51.15.15.112:8080/live/steven/steven123/505.ts
+#EXTINF:-1,BBC 2
+http://51.15.15.112:8080/live/steven/steven123/4870.ts
+#EXTINF:-1,BBC Two HD
+http://51.15.15.112:8080/live/steven/steven123/504.ts
+#EXTINF:-1,BBC Four HD
+http://51.15.15.112:8080/live/steven/steven123/507.ts
+#EXTINF:-1,BBC Alba
+http://51.15.15.112:8080/live/steven/steven123/508.ts
+#EXTINF:-1,S4C HD
+http://51.15.15.112:8080/live/steven/steven123/4895.ts
+#EXTINF:-1,S4C
+http://51.15.15.112:8080/live/steven/steven123/509.ts
+#EXTINF:-1,Channel 4
+http://51.15.15.112:8080/live/steven/steven123/1912.ts
+#EXTINF:-1,Channel 4 +1
+http://51.15.15.112:8080/live/steven/steven123/1913.ts
+#EXTINF:-1,Channel 4 HD
+http://51.15.15.112:8080/live/steven/steven123/666.ts
+#EXTINF:-1,Channel 5
+http://51.15.15.112:8080/live/steven/steven123/1914.ts
+#EXTINF:-1,Channel 5 +1
+http://51.15.15.112:8080/live/steven/steven123/1915.ts
+#EXTINF:-1,Channel 5 HD
+http://51.15.15.112:8080/live/steven/steven123/667.ts
+#EXTINF:-1,ITV
+http://51.15.15.112:8080/live/steven/steven123/536.ts
+#EXTINF:-1,ITV +1
+http://51.15.15.112:8080/live/steven/steven123/1791.ts
+#EXTINF:-1,ITV HD
+http://51.15.15.112:8080/live/steven/steven123/3705.ts
+#EXTINF:-1,ITV2
+http://51.15.15.112:8080/live/steven/steven123/537.ts
+#EXTINF:-1,ITV2 +1
+http://51.15.15.112:8080/live/steven/steven123/1918.ts
+#EXTINF:-1,ITV2 HD
+http://51.15.15.112:8080/live/steven/steven123/3961.ts
+#EXTINF:-1,ITV3
+http://51.15.15.112:8080/live/steven/steven123/538.ts
+#EXTINF:-1,ITV3 +1
+http://51.15.15.112:8080/live/steven/steven123/1793.ts
+#EXTINF:-1,ITV3 HD
+http://51.15.15.112:8080/live/steven/steven123/3962.ts
+#EXTINF:-1,ITV4
+http://51.15.15.112:8080/live/steven/steven123/539.ts
+#EXTINF:-1,ITV4 +1
+http://51.15.15.112:8080/live/steven/steven123/1919.ts
+#EXTINF:-1,ITV4 HD
+http://51.15.15.112:8080/live/steven/steven123/3963.ts
+#EXTINF:-1,ITVBe
+http://51.15.15.112:8080/live/steven/steven123/451.ts
+#EXTINF:-1,ITVBe HD
+http://51.15.15.112:8080/live/steven/steven123/4119.ts
+#EXTINF:-1,ITVBe +1
+http://51.15.15.112:8080/live/steven/steven123/1920.ts
+#EXTINF:-1,5 USA
+http://51.15.15.112:8080/live/steven/steven123/453.ts
+#EXTINF:-1,5 USA +1
+http://51.15.15.112:8080/live/steven/steven123/1911.ts
+#EXTINF:-1,5Select
+http://51.15.15.112:8080/live/steven/steven123/4947.ts
+#EXTINF:-1,5STAR
+http://51.15.15.112:8080/live/steven/steven123/452.ts
+#EXTINF:-1,5Star +1
+http://51.15.15.112:8080/live/steven/steven123/3445.ts
+#EXTINF:-1,4Seven
+http://51.15.15.112:8080/live/steven/steven123/459.ts
+#EXTINF:-1,4Seven HD
+http://51.15.15.112:8080/live/steven/steven123/3686.ts
+#EXTINF:-1,E4 HD
+http://51.15.15.112:8080/live/steven/steven123/2476.ts
 #EXTINF:-1,E4
-http://163.172.83.203:25461/live/ggy/ggy/48861.m3u8
-#EXTINF:-1,FORCES TV
-http://163.172.83.203:25461/live/ggy/ggy/48859.m3u8
-#EXTINF:-1,DRAMA
-http://163.172.83.203:25461/live/ggy/ggy/48852.m3u8
-#EXTINF:-1,REDBULL TV
-http://163.172.83.203:25461/live/ggy/ggy/48860.m3u8
-#EXTINF:-1,4 SEVEN
-http://163.172.83.203:25461/live/ggy/ggy/48854.m3u8
-#EXTINF:-1,5 SELECT
-http://163.172.83.203:25461/live/ggy/ggy/48857.m3u8
-#EXTINF:-1,5 STAR
-http://163.172.83.203:25461/live/ggy/ggy/48856.m3u8
-#EXTINF:-1,DAVE
-http://163.172.83.203:25461/live/ggy/ggy/48858.m3u8
-#EXTINF:-1,CBS ACTION
-http://163.172.83.203:25461/live/ggy/ggy/48848.m3u8
-#EXTINF:-1,CBS DRAMA
-http://163.172.83.203:25461/live/ggy/ggy/48849.m3u8
-#EXTINF:-1,cbs REALITY  1
-http://163.172.83.203:25461/live/ggy/ggy/48850.m3u8
-#EXTINF:-1,cbs REALLY
-http://163.172.83.203:25461/live/ggy/ggy/48851.m3u8
-#EXTINF:-1,GOLD
-http://163.172.83.203:25461/live/ggy/ggy/48847.m3u8
-#EXTINF:-1,GOLD  1
-http://163.172.83.203:25461/live/ggy/ggy/48846.m3u8
-#EXTINF:-1,MORE 4
-http://163.172.83.203:25461/live/ggy/ggy/48845.m3u8
-#EXTINF:-1,WATCH
-http://163.172.83.203:25461/live/ggy/ggy/48844.m3u8
-#EXTINF:-1,WATCH   1
-http://163.172.83.203:25461/live/ggy/ggy/48843.m3u8
-#EXTINF:-1,TLC
-http://163.172.83.203:25461/live/ggy/ggy/48842.m3u8
-#EXTINF:-1,QUEST
-http://163.172.83.203:25461/live/ggy/ggy/48840.m3u8
-#EXTINF:-1,CHALLENGEN TV
-http://163.172.83.203:25461/live/ggy/ggy/48853.m3u8
-#EXTINF:-1,IRE | 3e
-http://163.172.83.203:25461/live/ggy/ggy/49652.m3u8
-#EXTINF:-1,IRE | RTE News Now
-http://163.172.83.203:25461/live/ggy/ggy/49651.m3u8
-#EXTINF:-1,IRE | RTE One HD
-http://163.172.83.203:25461/live/ggy/ggy/49650.m3u8
-#EXTINF:-1,IRE | RTE Two HD
-http://163.172.83.203:25461/live/ggy/ggy/49649.m3u8
-#EXTINF:-1,IRE | TV3 HD
-http://163.172.83.203:25461/live/ggy/ggy/49648.m3u8
+http://51.15.15.112:8080/live/steven/steven123/422.ts
+#EXTINF:-1,E4 +1
+http://51.15.15.112:8080/live/steven/steven123/1916.ts
+#EXTINF:-1,London Live
+http://51.15.15.112:8080/live/steven/steven123/4946.ts
+#EXTINF:-1,More4 HD
+http://51.15.15.112:8080/live/steven/steven123/2478.ts
+#EXTINF:-1,More4
+http://51.15.15.112:8080/live/steven/steven123/460.ts
+#EXTINF:-1,More4 +1
+http://51.15.15.112:8080/live/steven/steven123/1945.ts
+#EXTINF:-1,My5
+http://51.15.15.112:8080/live/steven/steven123/3444.ts
+#EXTINF:-1,Drama
+http://51.15.15.112:8080/live/steven/steven123/455.ts
+#EXTINF:-1,Fox
+http://51.15.15.112:8080/live/steven/steven123/4894.ts
+#EXTINF:-1,FOX HD
+http://51.15.15.112:8080/live/steven/steven123/21.ts
+#EXTINF:-1,Horror Channel
+http://51.15.15.112:8080/live/steven/steven123/1944.ts
+#EXTINF:-1,SyFy
+http://51.15.15.112:8080/live/steven/steven123/374.ts
+#EXTINF:-1,SyFy +1
+http://51.15.15.112:8080/live/steven/steven123/1798.ts
+#EXTINF:-1,CITV
+http://51.15.15.112:8080/live/steven/steven123/4978.ts
+#EXTINF:-1,CBeebies HD
+http://51.15.15.112:8080/live/steven/steven123/4184.ts
+#EXTINF:-1,Baby TV
+http://51.15.15.112:8080/live/steven/steven123/575.ts
+#EXTINF:-1,CBBC HD
+http://51.15.15.112:8080/live/steven/steven123/3402.ts
+#EXTINF:-1,Boomerang
+http://51.15.15.112:8080/live/steven/steven123/149.ts
+#EXTINF:-1,Boomerang +1
+http://51.15.15.112:8080/live/steven/steven123/4913.ts
+#EXTINF:-1,Cartoon Network
+http://51.15.15.112:8080/live/steven/steven123/4230.ts
+#EXTINF:-1,Cartoon Network +1
+http://51.15.15.112:8080/live/steven/steven123/4275.ts
+#EXTINF:-1,Cartoonito (Not 24h)
+http://51.15.15.112:8080/live/steven/steven123/4979.ts
+#EXTINF:-1,Disney XD
+http://51.15.15.112:8080/live/steven/steven123/387.ts
+#EXTINF:-1,Disney XD HD
+http://51.15.15.112:8080/live/steven/steven123/4890.ts
+#EXTINF:-1,Disney Junior
+http://51.15.15.112:8080/live/steven/steven123/388.ts
+#EXTINF:-1,Disney Junior HD
+http://51.15.15.112:8080/live/steven/steven123/4891.ts
+#EXTINF:-1,Disney Channel HD
+http://51.15.15.112:8080/live/steven/steven123/20.ts
+#EXTINF:-1,Disney Channel
+http://51.15.15.112:8080/live/steven/steven123/5039.ts
+#EXTINF:-1,Disney Channel +1
+http://51.15.15.112:8080/live/steven/steven123/5142.ts
+#EXTINF:-1,Nickelodeon HD
+http://51.15.15.112:8080/live/steven/steven123/389.ts
+#EXTINF:-1,Nickelodeon
+http://51.15.15.112:8080/live/steven/steven123/3203.ts
+#EXTINF:-1,Nicktoons
+http://51.15.15.112:8080/live/steven/steven123/390.ts
+#EXTINF:-1,Nick Junior
+http://51.15.15.112:8080/live/steven/steven123/153.ts
+#EXTINF:-1,Animal Planet +1
+http://51.15.15.112:8080/live/steven/steven123/4876.ts
+#EXTINF:-1,Animal Planet HD
+http://51.15.15.112:8080/live/steven/steven123/3687.ts
+#EXTINF:-1,Crime & Investigation HD
+http://51.15.15.112:8080/live/steven/steven123/10.ts
 #EXTINF:-1,Discovery
-http://163.172.83.203:25461/live/ggy/ggy/48898.m3u8
-#EXTINF:-1,Discovery Investigation
-http://163.172.83.203:25461/live/ggy/ggy/48897.m3u8
+http://51.15.15.112:8080/live/steven/steven123/1789.ts
+#EXTINF:-1,Discovery HD
+http://51.15.15.112:8080/live/steven/steven123/29.ts
+#EXTINF:-1,Discovery +1
+http://51.15.15.112:8080/live/steven/steven123/4276.ts
+#EXTINF:-1,Discovery History
+http://51.15.15.112:8080/live/steven/steven123/30.ts
+#EXTINF:-1,Discovery History +1
+http://51.15.15.112:8080/live/steven/steven123/4879.ts
+#EXTINF:-1,Discovery Home & Health
+http://51.15.15.112:8080/live/steven/steven123/4878.ts
 #EXTINF:-1,Discovery Science
-http://163.172.83.203:25461/live/ggy/ggy/48896.m3u8
-#EXTINF:-1,Discovery-History
-http://163.172.83.203:25461/live/ggy/ggy/48895.m3u8
-#EXTINF:-1,Discovery-Home-&Health
-http://163.172.83.203:25461/live/ggy/ggy/48894.m3u8
-#EXTINF:-1,Animal-Planet-HD
-http://163.172.83.203:25461/live/ggy/ggy/48884.m3u8
-#EXTINF:-1,Animal Planet
-http://163.172.83.203:25461/live/ggy/ggy/48883.m3u8
-#EXTINF:-1,Nat Geographic HD
-http://163.172.83.203:25461/live/ggy/ggy/48885.m3u8
-#EXTINF:-1,National-Geographic
-http://163.172.83.203:25461/live/ggy/ggy/48889.m3u8
-#EXTINF:-1,Nat-Geo-Wild
-http://163.172.83.203:25461/live/ggy/ggy/48893.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://163.172.83.203:25461/live/ggy/ggy/48886.m3u8
-#EXTINF:-1,YESTERDAY
-http://163.172.83.203:25461/live/ggy/ggy/48888.m3u8
-#EXTINF:-1,H2
-http://163.172.83.203:25461/live/ggy/ggy/48887.m3u8
-#EXTINF:-1,cartoon network
-http://163.172.83.203:25461/live/ggy/ggy/48912.m3u8
-#EXTINF:-1,cartoonito
-http://163.172.83.203:25461/live/ggy/ggy/48910.m3u8
-#EXTINF:-1,CBBC
-http://163.172.83.203:25461/live/ggy/ggy/48901.m3u8
-#EXTINF:-1,CBeebies
-http://163.172.83.203:25461/live/ggy/ggy/48900.m3u8
-#EXTINF:-1,disney channel
-http://163.172.83.203:25461/live/ggy/ggy/48909.m3u8
-#EXTINF:-1,disney jr
-http://163.172.83.203:25461/live/ggy/ggy/48908.m3u8
-#EXTINF:-1,Kartoon Klassics
-http://163.172.83.203:25461/live/ggy/ggy/48902.m3u8
-#EXTINF:-1,Kix
-http://163.172.83.203:25461/live/ggy/ggy/48905.m3u8
-#EXTINF:-1,nickeloden
-http://163.172.83.203:25461/live/ggy/ggy/48911.m3u8
-#EXTINF:-1,Om Nom
-http://163.172.83.203:25461/live/ggy/ggy/48903.m3u8
-#EXTINF:-1,Pop
-http://163.172.83.203:25461/live/ggy/ggy/48906.m3u8
-#EXTINF:-1,Popeye
-http://163.172.83.203:25461/live/ggy/ggy/48904.m3u8
-#EXTINF:-1,Tiny Pop
-http://163.172.83.203:25461/live/ggy/ggy/48907.m3u8
-#EXTINF:-1,Now 80s
-https://live-aatw.simplestreamcdn.com/now/5/prog_index.m3u8
-#EXTINF:-1,MTV Base SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48924.m3u8
-#EXTINF:-1,MTV Classic SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48923.m3u8
-#EXTINF:-1,MTV Dance SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48922.m3u8
-#EXTINF:-1,MTV HITS SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48921.m3u8
-#EXTINF:-1,MTV LIVE SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48920.m3u8
-#EXTINF:-1,MTV Music SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48919.m3u8
-#EXTINF:-1,MTV Rocks SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48918.m3u8
-#EXTINF:-1,VH 1 SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48917.m3u8
-#EXTINF:-1,VIVA  HD
-http://163.172.83.203:25461/live/ggy/ggy/48916.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://163.172.83.203:25461/live/ggy/ggy/48931.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://163.172.83.203:25461/live/ggy/ggy/48926.m3u8
-#EXTINF:-1,Sky Movies Crime & Thriller
-http://163.172.83.203:25461/live/ggy/ggy/48925.m3u8
-#EXTINF:-1,Sky Movies Drama
-http://163.172.83.203:25461/live/ggy/ggy/48928.m3u8
-#EXTINF:-1,Sky Movies Drama & Romance
-http://163.172.83.203:25461/live/ggy/ggy/48927.m3u8
-#EXTINF:-1,Sky Movies Family
-http://163.172.83.203:25461/live/ggy/ggy/48929.m3u8
-#EXTINF:-1,Sky Movies Modern Great
-http://163.172.83.203:25461/live/ggy/ggy/48930.m3u8
-#EXTINF:-1,Sky Movies SciFi & Horror
-http://163.172.83.203:25461/live/ggy/ggy/48935.m3u8
-#EXTINF:-1,Sky Movies Select
-http://163.172.83.203:25461/live/ggy/ggy/48933.m3u8
-#EXTINF:-1,Sky Movies ShowCase
-http://163.172.83.203:25461/live/ggy/ggy/48934.m3u8
-#EXTINF:-1,True Movies 1
-http://163.172.83.203:25461/live/ggy/ggy/48915.m3u8
-#EXTINF:-1,True Movies 2
-http://163.172.83.203:25461/live/ggy/ggy/48914.m3u8
-#EXTINF:-1,UK-L: BOX OFFICE SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48936.m3u8
-#EXTINF:-1,UK-L: BOX OFFICE 1 SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48940.m3u8
-#EXTINF:-1,UK-L: BOX OFFICE 2 SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48939.m3u8
-#EXTINF:-1,UK-L: BOX OFFICE 3 SD/HD
-http://163.172.83.203:25461/live/ggy/ggy/48938.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://163.172.83.203:25461/live/ggy/ggy/48958.m3u8
-#EXTINF:-1,sky sports action
-http://163.172.83.203:25461/live/ggy/ggy/49061.m3u8
-#EXTINF:-1,sky sports arena
-http://163.172.83.203:25461/live/ggy/ggy/49060.m3u8
-#EXTINF:-1,sky sports cricket
-http://163.172.83.203:25461/live/ggy/ggy/49055.m3u8
-#EXTINF:-1,sky sports f1
-http://163.172.83.203:25461/live/ggy/ggy/49053.m3u8
-#EXTINF:-1,sky sports football
-http://163.172.83.203:25461/live/ggy/ggy/49056.m3u8
-#EXTINF:-1,sky sports golf
-http://163.172.83.203:25461/live/ggy/ggy/49054.m3u8
-#EXTINF:-1,sky sports main event
-http://163.172.83.203:25461/live/ggy/ggy/49059.m3u8
-#EXTINF:-1,sky sports mix
-http://163.172.83.203:25461/live/ggy/ggy/49057.m3u8
-#EXTINF:-1,sky sports premier
-http://163.172.83.203:25461/live/ggy/ggy/49058.m3u8
-#EXTINF:-1,bt sports 1
-http://163.172.83.203:25461/live/ggy/ggy/49064.m3u8
-#EXTINF:-1,bt sports 2
-http://163.172.83.203:25461/live/ggy/ggy/49063.m3u8
-#EXTINF:-1,bt sports 3
-http://163.172.83.203:25461/live/ggy/ggy/49062.m3u8
-
-#EXTINF:-1,[UK] DISNEY CHANNEL HD
-http://world-ipsat.com:1155/live/maria/12345678/2925.m3u8
-#EXTINF:-1,[UK] DISNEY XD
-http://world-ipsat.com:1155/live/maria/12345678/2924.m3u8
-#EXTINF:-1,[UK] DISNEY JUNIOR HD
-http://world-ipsat.com:1155/live/maria/12345678/2926.m3u8
-#EXTINF:-1,[UK] DISNEY JUNIOR
-http://world-ipsat.com:1155/live/maria/12345678/2268.m3u8
-#EXTINF:-1,====UK_SPORTS_CHANNEL====
-http://world-ipsat.com:1155/live/maria/12345678/1015.m3u8
-#EXTINF:-1,[UK] SKY SPORT 1 HD
-http://world-ipsat.com:1155/live/maria/12345678/1016.m3u8
-#EXTINF:-1,[UK] SKY SPORT 2 HD
-http://world-ipsat.com:1155/live/maria/12345678/1017.m3u8
-#EXTINF:-1,[UK] SKY SPORT 3 HD
-http://world-ipsat.com:1155/live/maria/12345678/1018.m3u8
-#EXTINF:-1,[UK] SKY SPORTS  4 HD
-http://world-ipsat.com:1155/live/maria/12345678/1019.m3u8
-#EXTINF:-1,[UK] SKY SPORT 5HD
-http://world-ipsat.com:1155/live/maria/12345678/56.m3u8
-#EXTINF:-1,[UK] BT SPORT 1 HD
-http://world-ipsat.com:1155/live/maria/12345678/1011.m3u8
-#EXTINF:-1,[UK] BT SPORT 2 HD
-http://world-ipsat.com:1155/live/maria/12345678/1020.m3u8
-#EXTINF:-1,[UK] BT SPORT 3 HD
-http://world-ipsat.com:1155/live/maria/12345678/2948.m3u8
-#EXTINF:-1,[UK] PREMIER SPORT HD
-http://world-ipsat.com:1155/live/maria/12345678/2947.m3u8
-#EXTINF:-1,[UK] BT SPORT ESPN
-http://world-ipsat.com:1155/live/maria/12345678/2946.m3u8
-#EXTINF:-1,[UK] CITY
-http://world-ipsat.com:1155/live/maria/12345678/83.m3u8
-#EXTINF:-1,[UK] SKY PREMIUM
-http://world-ipsat.com:1155/live/maria/12345678/159.m3u8
-#EXTINF:-1,[UK] SKY MOVIE ADVENTURE HD
-http://world-ipsat.com:1155/live/maria/12345678/158.m3u8
+http://51.15.15.112:8080/live/steven/steven123/424.ts
+#EXTINF:-1,Discovery Science +1
+http://51.15.15.112:8080/live/steven/steven123/4877.ts
+#EXTINF:-1,Discovery Shed
+http://51.15.15.112:8080/live/steven/steven123/423.ts
+#EXTINF:-1,Discovery Turbo
+http://51.15.15.112:8080/live/steven/steven123/406.ts
+#EXTINF:-1,DMAX
+http://51.15.15.112:8080/live/steven/steven123/383.ts
