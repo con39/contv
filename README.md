@@ -72,6 +72,12 @@ http://51.15.15.112:8080/live/steven/steven123/5288.ts
 http://51.15.15.112:8080/live/steven/steven123/4869.ts
 #EXTINF:-1,BBC One HD
 http://51.15.15.112:8080/live/steven/steven123/505.ts
+#EXTINF:-1,[UK] BBC 1 HD
+http://world-ipsat.com:1155/live/maria/12345678/2943.m3u8
+#EXTINF:-1,[UK] BBC 2 HD
+http://world-ipsat.com:1155/live/maria/12345678/2942.m3u8
+
+
 #EXTINF:-1,BBC 2
 http://51.15.15.112:8080/live/steven/steven123/4870.ts
 #EXTINF:-1,BBC Two HD
